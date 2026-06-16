@@ -1,4 +1,4 @@
-# Getting-Started-with-NVivo
+# Qualitative-Data-Analysis-with-NVivo-Basics
 This repository contains class materials built by Trent University Library and Archives' Maps, Data and Government Information Centre for an introductory NVivo workshop. Instructions were developed using NVivo Version 15.3.1 on a Windows (PC) machine and may differ for a Mac.
 
 Curious about qualitative data analysis? Our intro to NVivo workshop is perfect for beginners from any field, with no prior experience needed.
