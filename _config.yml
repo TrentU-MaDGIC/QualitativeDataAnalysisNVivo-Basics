@@ -1,0 +1,16 @@
+title: "Qualitative Analysis in NVivo- Basics"
+description: "Analyze your qualitative data using NVivo software. Learn how to import data, create memos and annotations, create codes and cases, run queries to uncover patterns, and build visualizations."
+
+# Use remote theme
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: light
+search_enabled: true
+
+# Required for remote themes
+plugins:
+  - jekyll-remote-theme
+
+# Build settings
+url: "https://TrentU-MaDGIC.github.io"
+baseurl: "/Qualitative-Analysis-NVivo-Basics"
