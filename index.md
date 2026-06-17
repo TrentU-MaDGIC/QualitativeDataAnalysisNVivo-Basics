@@ -2,6 +2,7 @@
 layout: default
 title: Setup
 nav_order: 1
+parent: Workshop content
 ---
 
 # Qualitative Data Analysis in NVivo 
