@@ -2,6 +2,7 @@
 layout: default
 title: Create Project
 nav_order: 2
+parent: Workshop Content
 ---
 
 # Creating an NVivo Project
