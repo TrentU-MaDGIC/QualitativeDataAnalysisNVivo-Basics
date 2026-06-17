@@ -21,9 +21,14 @@ None
 
 ## Getting Started
 - NVivo software: Book a computer with NVivo software in the [Data Visualization Lab](https://trentu.libcal.com/reserve/labs_mediated/data-visualization-lab)
-- Download the workshop data
+- Download **and unzip** the workshop materials ([PDF files)
+[Download Data](NVivo_Workshop_Materials.zip){: .btn .btn-purple }
+- (**Optional**) Follow along using the recorded video.
+[Open Recording](https://trentu.yuja.com/V/Video?v=1273258&node=7296043&a=23763344){: .btn .btn-green }
 
 #### NVivo Resources at Trent
 - Office hours, email support, and consultations: [Contact us](https://www.trentu.ca/library/maps-data-government-information-centre/contact-us)
 - OMNI Resources: [NVivo Books & Articles](https://ocul-tu.primo.exlibrisgroup.com/discovery/search?vid=01OCUL_TU:TU_DEFAULT&tab=OCULDiscoveryNetwork&search_scope=OCULDiscoveryNetworkNew&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,NVivo&displayField=all&pcAvailabiltyMode=true&pcAvailability=true)
 - OMNI Resources: [Sage Research Methods: Qualitative Research Methods](https://methods.sagepub.com/methods-map/qualitative-data-analysis)
+
+This workshop was authored by Kate Hodge (GIS and Data Support Specialist).
