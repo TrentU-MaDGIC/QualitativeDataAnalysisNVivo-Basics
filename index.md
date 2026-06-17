@@ -1,22 +1,29 @@
 ---
 layout: default
-title: Home
+title: Introduction
 nav_order: 1
 ---
 
-# Qualitative Data Analysis in NVivo (15.3.1) Windows Version
-Description: Curious about qualitative data analysis? 
+# Qualitative Data Analysis in NVivo 
+This workshop offers an introduction to Qualitative Data Analysis in NVivo software version 15.3.1 (Windows edition).  
 We'll introduce you to the basics of this popular qualitative data analysis software and its interface. 
+By the end of this workshop, you will be able to:
 
-Import Data: Learn how to import a variety of data types. 
-Create annotations: Link notes to a specific piece of text in a document. 
-Create memos: Document general project notes. 
-Create codes: Label data for better organization and retrieval 
-Run queries: Filter, sort, and summarize data using simple queries (no coding required). 
-Build visualizations: Visualize the results in a word tree.
+- Import Data: Learn how to import a variety of data types
+- Create annotations: Link notes to a specific piece of text in a document
+- Create memos: Document general project notes
+- Create codes: Label data for better organization and retrieval 
+- Run queries: Filter, sort, and summarize data using simple queries (no coding required)
+- Build visualizations: Visualize the results in a word tree
 
-**Prerequisites:** None
+## Prerequisites
+None
 
-> **Who is this for?** Beginners from any field of study. 
+## Getting Started
+- NVivo software: Book a computer with NVivo software in the [Data Visualization Lab](https://trentu.libcal.com/reserve/labs_mediated/data-visualization-lab)
+- Download the workshop data
 
-## Getting started
+#### NVivo Resources at Trent
+- Office hours, email support, and consultations: [Contact us](https://www.trentu.ca/library/maps-data-government-information-centre/contact-us)
+- OMNI Resources: [NVivo Books & Articles](https://ocul-tu.primo.exlibrisgroup.com/discovery/search?vid=01OCUL_TU:TU_DEFAULT&tab=OCULDiscoveryNetwork&search_scope=OCULDiscoveryNetworkNew&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,NVivo&displayField=all&pcAvailabiltyMode=true&pcAvailability=true)
+- OMNI Resources: [Sage Research Methods: Qualitative Research Methods](https://methods.sagepub.com/methods-map/qualitative-data-analysis)
