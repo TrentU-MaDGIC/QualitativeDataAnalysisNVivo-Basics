@@ -11,11 +11,12 @@ Create codes: Label data for better organization and retrieval
 Run queries: Filter, sort, and summarize data using simple queries (no coding required).
 Build visualizations: Visualize the results in a word tree.
 
-The directory contains the:
+The workshop analyzes publications and interview transcripts on Open Data Science using the following files:
 
-* Transcript for analyzing (participant A_transcript_dataverse.pdf)
-* Transcript for analyzing (participant H_transcript_dataverse.pdf)
-* Transcript for analyzing (participant I_transcript_dataverse.pdf)
-* Publication for analyzing (Academic impact of open science.pdf)
-* Publication for analyzing (Factors influencing open science participation through research data sharing and reuse among researchers .pdf)
+- Transcript for analyzing (participant A_transcript_dataverse.pdf)
+- Transcript for analyzing (participant H_transcript_dataverse.pdf)
+- Transcript for analyzing (participant I_transcript_dataverse.pdf)
+- Publication for analyzing (Academic impact of open science.pdf)
+- Publication for analyzing (Factors influencing open science participation through research data sharing and reuse among researchers.pdf)
+
 If you have any questions, please get in touch with madgichelp@trentu.ca.
