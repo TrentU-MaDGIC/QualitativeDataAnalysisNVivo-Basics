@@ -34,3 +34,35 @@ Inductive coding is a process whereby you create codes as you review the data.
 5.	Click Enter on your keyboard. 
 
 **Note:** You will only see available codes in your coding bar if the first option in the coding bar at the bottom of your screen is set to “In: Codes”.
+
+## Reviewing Codes
+### Viewing Codes
+1.	With a coded document open (e.g. participant A_transcript_dataverse), click “Coding Stripes” in the tool ribbon (e.g. Document or PDF) at the top of your screen.
+2.	Click “All” under “Show Coding Stripes”, this will give you an overview of the codes in your data on the right side of your screen.
+3.	Click “View”.
+4.	Click “All Coding”, this will highlight all of the text that you have coded in your data.
+
+### Viewing and Editing Coded Data
+1.	Click back into “Codes” found under “Coding” on the navigation view (left pane).
+2.	Double-click on a given code (e.g. Q1) to bring up all the data that has been coded to that category.
+3.	To uncode all or a portion of your coded data from the category in question (e.g. uncode from Q1), highlight the code you want to remove.
+4.	Right-click and select “Uncode from This Code”
+
+## Organizing and Editing Your Codes
+Codes can be organized into hierarchical relationships.
+
+### Create a Parent & Child (Subcategory) Code
+1.	Click back into “Codes” found under “Coding” on the navigation view (left pane).
+2.	Right-click in the white space under the “Codes” window.
+3.	Click “New Code”
+4.	Name the Code according to your needs (e.g. “Interview Questions”) 
+5.	Click and drag the child (subcategory) code (e.g. Q1) onto the desired parent code (e.g. Interview Questions)
+6.	Click the “+” sign next to the parent code to view the child codes.
+
+### Convert a Child (Subcategory) Code to a Parent Code
+1.	Right-click on the subcategory code (e.g. Q1).
+2.	Select “Cut”
+3.	Right-click onto the white space in “Codes”.
+4.	Right-click and select “Paste”.
+
+
