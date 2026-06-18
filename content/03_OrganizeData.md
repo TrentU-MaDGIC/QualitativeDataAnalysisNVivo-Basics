@@ -2,7 +2,7 @@
 layout: default
 title: Organize Data
 nav_order: 4
-parent: Workshop content
+parent: Workshop Content
 has_toc: false
 permalink: /content/OrganizeData.html
 ---
