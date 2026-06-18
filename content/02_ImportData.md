@@ -4,6 +4,7 @@ title: Workshop Content
 nav_order: 2
 has_children: true
 has_toc: false
+permalink: /content/WorkshopContent.html
 ---
 
 # Creating an NVivo Project
