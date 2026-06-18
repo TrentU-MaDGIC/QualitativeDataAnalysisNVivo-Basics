@@ -22,7 +22,7 @@ None
 ## Getting Started
 - NVivo software: Book a computer with NVivo software in the [Data Visualization Lab](https://trentu.libcal.com/reserve/labs_mediated/data-visualization-lab)
 - Download **and unzip** the workshop materials (PDF files)
-[Download Data](https://github.com/TrentU-MaDGIC/QualitativeDataAnalysisNVivo-Basics/blob/main/files/NVivo_Workshop_Material.zip)
+[Download Data](https://github.com/TrentU-MaDGIC/QualitativeDataAnalysisNVivo-Basics/blob/main/content/files/NVivo_Workshop_Material.zip)
 - (**Optional**) Follow along using the recorded video.
 [Open Recording](https://trentu.yuja.com/V/Video?v=1273258&node=7296043&a=23763344)
 
