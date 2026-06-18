@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create Annotations
-nav_order: 4
+nav_order: 5
 parent: Workshop Content
 has_toc: false
 permalink: /content/CreateAnnotations.html
