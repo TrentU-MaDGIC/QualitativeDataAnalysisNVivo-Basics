@@ -37,5 +37,5 @@ permalink: /content/WorkshopContent.html
    - Academic impact of open science.pdf
    - Factors influencing open science participation through research data sharing and reuse among researchers.pdf
 
-4.	Click “Import”.
+3.	Click “Import”.
 **Note:** Repeat steps 1-2 if the files are in different folders.
