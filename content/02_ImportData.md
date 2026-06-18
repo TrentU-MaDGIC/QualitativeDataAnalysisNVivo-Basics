@@ -30,6 +30,11 @@ permalink: /content/WorkshopContent.html
 1.	Click “Import” > “Files” on the ribbon view (top pane). “Files” lets you import documents, PDFs, audio, video, images, and other file types. 
 2.	Navigate to the data you want to import on your device, select all the files, and click “Open”.
    E.g. Import your own files or the PDFs in [NVivo Workshop Material](files/NVivo_Workshop_Material.zip)
-  
+  	- doi-10.5683-sp3-mawfmc-transcripts\participant A_transcript_dataverse.pdf
+   - doi-10.5683-sp3-mawfmc-transcripts\participant H_transcript_dataverse.pdf
+   - doi-10.5683-sp3-mawfmc-transcripts\participant I_transcript_dataverse.pdf
+   - Academic impact of open science.pdf
+   - Factors influencing open science participation through research data sharing and reuse among researchers.pdf
+
 4.	Click “Import”.
 **Note:** Repeat steps 1-2 if the files are in different folders.
