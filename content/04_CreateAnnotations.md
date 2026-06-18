@@ -7,6 +7,7 @@ has_toc: false
 permalink: /content/CreateAnnotations.html
 ---
 
+# Creating Annotations
 **Note:**Annotations are suitable for linking a note to a specific piece of text in a document. These instructions are for annotating text and a graphic in a PDF file.
 
 ## Annotate Text
