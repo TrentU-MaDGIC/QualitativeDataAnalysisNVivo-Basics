@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Create Project
+title: Workshop Content
 nav_order: 2
-parent: Workshop Content
+has_children: true
+has_toc: false
 ---
 
 # Creating an NVivo Project
