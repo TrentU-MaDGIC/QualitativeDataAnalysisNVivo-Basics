@@ -26,16 +26,16 @@ permalink: /content/WorkshopContent.html
 3.	 Review the project tools across the ribbon view (top pane).
 
 # Importing Data
-**Note:** Several methods and types of data can be imported. This document will focus on one specific method for importing PDFs using a PC. 
-1.	Click “Import” > “Files” on the ribbon view (top pane). “Files” will allow you to import documents, PDFs, audio, videos, images, and several other file types. 
+**Note:** Several methods and types of data can be imported. This document focuses on a specific method for importing PDFs on a PC. 
+1.	Click “Import” > “Files” on the ribbon view (top pane). “Files” lets you import documents, PDFs, audio, video, images, and other file types. 
 2.	Navigate to the data you want to import on your device, select all the files, and click “Open”.
 
 E.g. Import your own files or the PDFs in [NVivo Workshop Material](files/NVivo_Workshop_Material.zip)
-  a.	doi-10.5683-sp3-mawfmc-transcripts\participant A_transcript_dataverse
-  b.	doi-10.5683-sp3-mawfmc-transcripts\participant H_transcript_dataverse
-  c.	doi-10.5683-sp3-mawfmc-transcripts\participant I_transcript_dataverse
-  d.	Academic impact of open science 
-  e.	Factors influencing open science participation through research data sharing and reuse among researchers
+a.	doi-10.5683-sp3-mawfmc-transcripts\participant A_transcript_dataverse
+b.	doi-10.5683-sp3-mawfmc-transcripts\participant H_transcript_dataverse
+c.	doi-10.5683-sp3-mawfmc-transcripts\participant I_transcript_dataverse
+d.	Academic impact of open science 
+e.	Factors influencing open science participation through research data sharing and reuse among researchers
   
-3.	Click “Import”.
+4.	Click “Import”.
 **Note:** Repeat steps 1-2 if the files are in different folders.
