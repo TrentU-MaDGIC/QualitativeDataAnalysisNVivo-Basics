@@ -5,8 +5,8 @@ nav_order: 1
 ---
 
 # Qualitative Data Analysis in NVivo 
-This workshop offers an introduction to Qualitative Data Analysis in NVivo software version 15.3.1 (Windows edition).  
-We'll introduce you to the basics of this popular qualitative data analysis software and its interface. 
+This workshop offers an introduction to qualitative data analysis using the Windows version of NVivo software v. 15.3.1 by Lumivero. 
+
 By the end of this workshop, you will be able to:
 
 - Import Data: Learn how to import a variety of data types
