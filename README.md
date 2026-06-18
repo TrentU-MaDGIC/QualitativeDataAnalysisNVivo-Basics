@@ -1,15 +1,13 @@
 # QualitativeDataAnalysisNVivo-Basics
-This repository contains class materials built by Trent University Library and Archives' Maps, Data and Government Information Centre for an introductory NVivo workshop. Instructions were developed using NVivo Version 15.3.1 on a Windows (PC) machine and may differ for a Mac.
+This repository contains materials built by Trent University Library and Archives' Maps, Data and Government Information Centre for an introduction to qualitative data analysis using NVivo software. Instructions were developed using the Windows version of NVivo (v.15.3.1).
 
-Curious about qualitative data analysis? Our intro to NVivo workshop is perfect for beginners from any field, with no prior experience needed.
-
-Discover NVivo: We'll introduce you to NVivo, showing you the basics of this popular qualitative data analysis software and its interface.
-Import Data: Learn how to import a variety of data types.
-Create annotations: Link notes to a specific piece of text in a document.
-Create memos: Document general project notes.
-Create codes: Label data for better organization and retrieval
-Run queries: Filter, sort, and summarize data using simple queries (no coding required).
-Build visualizations: Visualize the results in a word tree.
+- Discover NVivo: We'll introduce you to NVivo, showing you the basics of this popular qualitative data analysis software and its interface.
+- Import Data: Learn how to import a variety of data types.
+- Create annotations: Link notes to a specific piece of text in a document.
+- Create memos: Document general project notes.
+- Create codes: Label data for better organization and retrieval
+- Run queries: Filter, sort, and summarize data using simple queries (no coding required).
+- Build visualizations: Visualize the results in a word tree.
 
 The workshop analyzes publications and interview transcripts on Open Data Science using the following files:
 
