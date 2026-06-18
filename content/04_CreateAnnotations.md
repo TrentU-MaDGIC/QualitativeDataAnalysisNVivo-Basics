@@ -27,3 +27,8 @@ permalink: /content/CreateAnnotations.html
 4.	Click “new annotation” in the drop-down menu.
 5.	NVivo will create an annotation box for you at the bottom of the screen – type your thoughts in this blank field.
 6.	Click anywhere outside of the annotation field to save your annotation.
+
+## Reviewing Annotations
+1.	Click the “Annotations” subfolder, under “Notes” on the navigation view (left pane).
+2.	Double-click an annotation to open the related document/highlighted text,
+3.	Click the number under the “Item” column in the annotation box to navigate between multiple annotations in a document.
