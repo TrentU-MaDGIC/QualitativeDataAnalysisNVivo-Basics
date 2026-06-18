@@ -8,7 +8,7 @@ permalink: /content/CreateAnnotations.html
 ---
 
 # Creating Annotations
-**Note:**Annotations are suitable for linking a note to a specific piece of text in a document. These instructions are for annotating text and a graphic in a PDF file.
+**Note:** Annotations are suitable for linking a note to a specific piece of text in a document. These instructions are for annotating text and a graphic in a PDF file.
 
 ## Annotate Text
 1.	Click the “Journals” subfolder, under “Files” on the navigation view (left pane).
