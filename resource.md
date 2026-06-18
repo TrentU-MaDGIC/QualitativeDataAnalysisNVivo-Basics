@@ -3,6 +3,9 @@ layout: default
 nav_order: 3
 title: Resources
 ---
+# NVivo Help
+- [NVivo 15 User Help – Windows](https://help-nv.qsrinternational.com/15/win/Content/welcome.htm)
+- [Getting Started with NVivo (Windows) YouTube](https://www.youtube.com/playlist?list=PLNjHMRgHS4Fc7-Bk0K5PR9rtRyGdFfNpu)
 
 # NVivo Resources at Trent
 - Office hours, email support, and consultations: [Contact us](https://www.trentu.ca/library/maps-data-government-information-centre/contact-us)
