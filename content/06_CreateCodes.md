@@ -27,6 +27,7 @@ Deductive coding is when you already know the codes you want to create.
 9.	Start typing the relevant code (e.g. Q1) and the codes will automatically pop up.
 10.	Click on your desired code. 
 11.	Click Enter on your keyboard. 
+
 **Note:** You can use the “…” on your coding bar to select multiple codes at the same time.
 
 ## Inductive Coding
