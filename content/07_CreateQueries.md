@@ -12,12 +12,7 @@ NVivo offers various query types to help you filter, sort, and summarize data. T
 ## Word Frequency Query
 1.	Click “Explore” on the ribbon view (top pane).
 2.	Click “Word Frequency”, found at the center of the “Explore” ribbon.
-<img src="./images/31_Explore.png" style="width:80%">
-
 3.	Specify what files you want to search by clicking “Selected Items” under “Search In” (e.g. "Files" >  “Transcripts”).
-<img src="./images/32_SelectFiles.png" style="width:80%">
-
-
 4.	Adjust the number of display words, minimum length, and grouping as needed (e.g. 50 display words, 4 minimum length, with stemmed words)
 5.	Click “Run Query”.
 <img src="./images/32_WordFreqQueryResults.png" style="width:80%">
