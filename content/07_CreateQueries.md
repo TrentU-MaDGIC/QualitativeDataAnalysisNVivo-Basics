@@ -42,7 +42,7 @@ NVivo offers various query types to help you filter, sort, and summarize data. T
 6.	Click “Run Query”.
 7.	Review the results. You can double-click on a word to see where it occurs in your data.
 8.	Review the different result view types on the right-hand side of your screen (e.g. Word Tree). You can right-click on the word tree and click “Export Word Tree” to save.
-<img src="./images/38_WordTree.png" style="width:80%">
+<img src="./images/38_WordTreeView.png" style="width:80%">
 
 9.	Click “Save Criteria” to save your search parameters for future use.
 10.	Name the text search criteria according to your needs (e.g. “Research Data Management Word Search”). 
