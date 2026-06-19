@@ -48,3 +48,9 @@ permalink: /content/WorkshopContent.html
 <img src="./images/06_SelectFiles.png" style="width:50%">
 
 3.	Click “Import”. **You will need to repeat steps 1-2 if the files are in different folders.**
+<img src="./images/07_ImportFiles.png" style="width:50%">
+
+4. View your imported files under "Data" > "Files"
+<img src="./images/08_ViewImports.png" style="width:80%">
+
+    
