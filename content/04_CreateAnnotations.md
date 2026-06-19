@@ -8,7 +8,7 @@ permalink: /content/CreateAnnotations.html
 ---
 
 # Creating Annotations
-**Note:** Annotations are suitable for linking a note to a specific piece of text in a document. These instructions are for annotating text and a graphic in a PDF file.
+Annotations are suitable for linking a note to a specific piece of text in a document. These instructions are for annotating text and a graphic in a PDF file.
 
 ## Annotate Text
 1.	Click the “Journals” subfolder, under “Files” on the navigation view (left pane).
@@ -26,7 +26,7 @@ permalink: /content/CreateAnnotations.html
 7.	Click anywhere outside of the annotation field to save your annotation.
 
 ## Annotate a Region
-**Note:** Annotate a picture or text in a PDF that you can't select using the ‘Region’ selection. 
+Annotate a picture or text in a PDF that you can't select using the ‘Region’ selection. 
 1.	Click “Region” at the top of the PDF tools ribbon.
 2.	Click and drag your mouse across a portion of the PDF to select a region.
 3.	Right-click over the region you selected.
