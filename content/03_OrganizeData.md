@@ -17,6 +17,8 @@ permalink: /content/OrganizeData.html
 2.	Click “New Folder” on the drop-down menu. 
 3.	Name the folder “Journals”. Description is optional.
 4.	Click “Ok”.
+<img src="./images/09_NewFolder.png" style="width:80%">
+
 5.	**Repeat steps 1-4** to create a second folder. Name it “Transcripts”.
 
 ## Add Files to a Folder
