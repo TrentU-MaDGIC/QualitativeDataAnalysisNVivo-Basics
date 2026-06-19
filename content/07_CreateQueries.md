@@ -34,7 +34,7 @@ NVivo offers various query types to help you filter, sort, and summarize data. T
 ## Text Search Query
 1.	Click “Explore” on the ribbon view (top pane).
 2.	Click “Text Search”, found at the center-left of the “Explore” ribbon.
-3.	Specify what files you want to search by clicking “Selected Items” under “Search In” (e.g. Files  “Transcripts”).
+3.	Specify what files you want to search by clicking “Selected Items” under “Search In” (e.g. "Files" > “Transcripts”).
 4.	Type the word that you want to locate/review within your data (e.g. “Research Data Management”).
 <img src="./images/37_TextWordSearch.png" style="width:80%">
 
@@ -45,9 +45,8 @@ NVivo offers various query types to help you filter, sort, and summarize data. T
 <img src="./images/38_WordTreeView.png" style="width:80%">
 
 9.	Click “Save Criteria” to save your search parameters for future use.
-10.	Name the text search criteria according to your needs (e.g. “Research Data Management Word Search”). 
+10.	Name the text search criteria according to your needs (e.g. “Research Data Management Word Search”).
 <img src="./images/39_SaveTextSearch.png" style="width:80%">
-
 
 11.	Click “Save Results” to save the output of your text search query to a new or existing code (E.g. Select the “Merge Results into an Existing Code or Case " and select the “Research Data Management” code).
 <img src="./images/40_SaveQueryResults.png" style="width:80%">
