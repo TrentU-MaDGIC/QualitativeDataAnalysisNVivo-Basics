@@ -46,9 +46,7 @@ permalink: /content/WorkshopContent.html
    - doi-10.5683-sp3-mawfmc-transcripts\participant I_transcript_dataverse.pdf
    - Academic impact of open science.pdf
    - Factors influencing open science participation through research data sharing and reuse among researchers.pdf
-      
-      ![Select import files](images/06_SelectFiles.png){width=50%}
-<img src="./images/06_SelectFiles.png" style="width:50%">
+     ![Select files](images/06_SelectFiles.png)
 
 3.	Click “Import”. **You will need to repeat steps 1-2 if the files are in different folders.**
-<img src="./images/07_ImportFiles.png" style="width:50%">
+     ![Import files](images/07_ImportFiles.png)
