@@ -13,22 +13,25 @@ permalink: /content/WorkshopContent.html
 1.	Launch NVivo software
 2.	Review resources on the landing page. (Note- Free transcription and cloud projects not covered/subscribed to by Trent)
 3.	Click “New Project”.
-<img src="./images/01_Project.png" style="width:80%">
+    
+    ![](images/01_Project.png)
 
 4.	Add a “Project title” (e.g. “Open Science”)
 5.	Browse to an appropriate “File Name” location to store your project.
 6.	By default, the “Keep a log of user actions” is checked.
-<img src="./images/02_NameProject.png" style="width:50%">
+
+    ![](images/02_NameProject.png)
 
 7.	Click “Next”.
 8.	Accept the defaults and note the recovery file location folder.
 9.	Click “Create Project”.
-<br>
-<img src="./images/03_RecoveryLocation.png" style="width:50%; display:block;">
+    
+    ![](images/03_RecoveryLocation.png)
 
 # Navigating the NVivo Interface
 1.	Start the NVivo tour to learn more about the interface.
-<img src="./images/04_Tour.png" style="width:50%">
+
+    ![](images/04_Tour.png)
 
 2.	Review the project components on the navigation view (left pane). Anything you import or create is accessible from here.
 3.	Review the project tools across the ribbon view (top pane).
@@ -38,7 +41,7 @@ permalink: /content/WorkshopContent.html
 
 1. Click “Import” > “Files” on the ribbon view (top pane). “Files” lets you import documents, PDFs, audio, video, images, and other file types.
 
-    ![Files](images/05_Files.png){width=80%}
+    ![Files](images/05_Files.png)
 
 2. Navigate to the data you want to import on your device, select all the files, and click “Open”.  
    E.g. Import your own files or the PDFs in [NVivo Workshop Material](files/NVivo_Workshop_Material.zip)
