@@ -19,13 +19,14 @@ Annotations are suitable for linking a note to a specific piece of text in a doc
 3.	Click and drag your mouse to highlight some text in the PDF.
 4.	Right-click over the text you highlighted.
 5.	Click “New Annotation” in the drop-down menu.
-    ![](images/13_HighlightText.png)
 
-6.	NVivo will create an annotation box for you at the bottom of the screen – type your thoughts in this blank field. (E.g. "Key Practises")
+  	![](images/13_HighlightText.png)
+
+7.	NVivo will create an annotation box for you at the bottom of the screen – type your thoughts in this blank field. (E.g. "Key Practises")
 
     ![](images/14_AnnotateText.png)
 
-7.	Click anywhere outside of the annotation field to save your annotation.
+8.	Click anywhere outside of the annotation field to save your annotation.
 
 ## Annotate a Region
 Annotate a picture or text in a PDF that you can't select using the ‘Region’ selection. 
