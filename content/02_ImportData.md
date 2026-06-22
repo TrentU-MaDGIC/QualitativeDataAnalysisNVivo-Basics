@@ -23,7 +23,8 @@ permalink: /content/WorkshopContent.html
 7.	Click “Next”.
 8.	Accept the defaults and note the recovery file location folder.
 9.	Click “Create Project”.
-<img src="./images/03_RecoveryLocation.png" style="width:50%">
+<br>
+<img src="./images/03_RecoveryLocation.png" style="width:50%; display:block;">
 
 # Navigating the NVivo Interface
 1.	Start the NVivo tour to learn more about the interface.
