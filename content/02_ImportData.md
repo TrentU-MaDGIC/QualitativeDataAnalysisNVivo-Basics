@@ -36,7 +36,8 @@ permalink: /content/WorkshopContent.html
 # Importing Data
 **Note:** You can import various types of data into NVivo, and there are several methods for importing. This workshop focuses on importing PDFs.
 1.	Click “Import” > “Files” on the ribbon view (top pane). “Files” lets you import documents, PDFs, audio, video, images, and other file types. 
-<img src="./images/05_Files.png" style="width:80%">
+
+   ![View files](images/05_Files.png)
 
 2.	Navigate to the data you want to import on your device, select all the files, and click “Open”.
    E.g. Import your own files or the PDFs in [NVivo Workshop Material](files/NVivo_Workshop_Material.zip)
@@ -50,4 +51,5 @@ permalink: /content/WorkshopContent.html
         ![Select files](images/06_SelectFiles.png)
 
 3.	Click “Import”. **You will need to repeat steps 1-2 if the files are in different folders.**
+     
      ![Import files](images/07_ImportFiles.png)
