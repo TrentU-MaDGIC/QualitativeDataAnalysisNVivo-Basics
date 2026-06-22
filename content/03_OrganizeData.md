@@ -8,7 +8,7 @@ permalink: /content/OrganizeData.html
 ---
 
 # Organize your Data
-**Note:** Use subfolders to help organize your data. 
+Use subfolders to help organize your data. 
 
 ## Create Folders
 1.	To create data subfolders, right-click on “Files” found under “Data” on the navigation view (left pane).
