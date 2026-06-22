@@ -28,8 +28,8 @@ permalink: /content/OrganizeData.html
   ![](images/10_OrganizeFiles.png)
 
 
-2.	Click and drag the “journal articles” files into the subfolder (“Journal Articles”).
+2.	Click and drag the journal articles (.pdf) files into the subfolder (“Journals”).
 
   ![](images/11_TranscriptSubfolder.png)
 
-3.	Click and drag the “transcript” files into the subfolder (“Transcripts”).
+3.	Click and drag the transcript (.pdf) files into the subfolder (“Transcripts”).
